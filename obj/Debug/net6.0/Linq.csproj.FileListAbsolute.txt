@@ -1,0 +1,15 @@
+E:\Cursos\Curso C#\Linq\bin\Debug\net6.0\Linq.exe
+E:\Cursos\Curso C#\Linq\bin\Debug\net6.0\Linq.deps.json
+E:\Cursos\Curso C#\Linq\bin\Debug\net6.0\Linq.runtimeconfig.json
+E:\Cursos\Curso C#\Linq\bin\Debug\net6.0\Linq.dll
+E:\Cursos\Curso C#\Linq\bin\Debug\net6.0\Linq.pdb
+E:\Cursos\Curso C#\Linq\obj\Debug\net6.0\Linq.csproj.AssemblyReference.cache
+E:\Cursos\Curso C#\Linq\obj\Debug\net6.0\Linq.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursos\Curso C#\Linq\obj\Debug\net6.0\Linq.AssemblyInfoInputs.cache
+E:\Cursos\Curso C#\Linq\obj\Debug\net6.0\Linq.AssemblyInfo.cs
+E:\Cursos\Curso C#\Linq\obj\Debug\net6.0\Linq.csproj.CoreCompileInputs.cache
+E:\Cursos\Curso C#\Linq\obj\Debug\net6.0\Linq.dll
+E:\Cursos\Curso C#\Linq\obj\Debug\net6.0\refint\Linq.dll
+E:\Cursos\Curso C#\Linq\obj\Debug\net6.0\Linq.pdb
+E:\Cursos\Curso C#\Linq\obj\Debug\net6.0\Linq.genruntimeconfig.cache
+E:\Cursos\Curso C#\Linq\obj\Debug\net6.0\ref\Linq.dll
